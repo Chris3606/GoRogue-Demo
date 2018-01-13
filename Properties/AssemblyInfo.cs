@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GoRogue Demo")]
+[assembly: AssemblyTitle("GoRogue-Demo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GoRogue Demo")]
+[assembly: AssemblyProduct("GoRogue-Demo")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7ab573fa-17d0-4b5b-9a68-eec9cbe93911")]
+[assembly: Guid("ab2bc3b4-a354-4c83-810c-f22c713a45ee")]
 
 // Version information for an assembly consists of the following four values:
 //
